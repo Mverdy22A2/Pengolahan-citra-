@@ -1,5 +1,9 @@
 # Pengolahan citra tugas pertemuan 2
 
+# Link Youtube :
+
+https://youtu.be/e4dkqL-4_6Y
+
 # tugas
 
 - impor pustaka berikut
